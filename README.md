@@ -1,2 +1,5 @@
-# -Hello-World-
-My first program .
+#include<stdio.h>
+main(){
+       print("Hello, World!\n");
+       return 0;
+       }
